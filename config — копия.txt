@@ -1,0 +1,4 @@
+C:\Tensorflow\models\research\object_detection\interference_graph\saved_model
+C:\Tensorflow\Dataset\label_map2.pbtxt
+C:\Users\MuhametovRD\PycharmProjects\Handle_detector\output\main
+rtsp://user08:Mrd12345678@2.1.3.33:554/1/1
